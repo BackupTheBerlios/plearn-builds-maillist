@@ -1,0 +1,78 @@
+From buildbot at apstat.com  Thu Sep 17 16:06:01 2009
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Thu, 17 Sep 2009 10:06:01 -0400
+Subject: [Plearn-builds] buildbot success in PLearn on
+	PLearn_ApSTAT_Linux_i386
+Message-ID: <20090917140641.A08681822B4@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386 on PLearn.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/3811
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Buildslave for this Build: AP-inari
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Thu Sep 17 21:33:03 2009
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Thu, 17 Sep 2009 15:33:03 -0400
+Subject: [Plearn-builds] buildbot success in PLearn on
+	PLearn_ApSTAT_Linux_i386
+Message-ID: <20090917193344.B0B8018DEF1@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386 on PLearn.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/3812
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Buildslave for this Build: AP-inari
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Thu Sep 17 21:40:16 2009
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Thu, 17 Sep 2009 15:40:16 -0400
+Subject: [Plearn-builds] buildbot success in PLearn on
+	PLearn_ApSTAT_Linux_i386
+Message-ID: <20090917194056.741D818BEA6@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386 on PLearn.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/3813
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Buildslave for this Build: AP-inari
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+

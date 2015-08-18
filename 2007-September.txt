@@ -1,0 +1,897 @@
+From buildbot at apstat.com  Sat Sep  1 01:42:20 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Fri, 31 Aug 2007 19:42:20 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070831234252.325841038CE@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2099
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: louradou
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Sat Sep  1 02:22:45 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Fri, 31 Aug 2007 20:22:45 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070901002312.6896F5F8BF@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2100
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: louradou
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Sat Sep  1 03:46:19 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Fri, 31 Aug 2007 21:46:19 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070901014646.892BCFB909@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2101
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: louradou
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Tue Sep  4 16:58:03 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Tue, 04 Sep 2007 10:58:03 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070904145836.5EE811032AD@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2102
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Tue Sep  4 17:29:33 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Tue, 04 Sep 2007 11:29:33 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070904153007.A6EAD101278@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2103
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Wed Sep  5 22:41:20 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Wed, 05 Sep 2007 16:41:20 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070905204150.2D29C102730@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2104
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: simonl
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Wed Sep  5 22:45:56 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Wed, 05 Sep 2007 16:45:56 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070905204630.57E18FC6CB@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2105
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: simonl
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Thu Sep  6 17:29:20 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Thu, 06 Sep 2007 11:29:20 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070906153003.8C1AF104F97@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2106
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Thu Sep  6 17:34:13 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Thu, 06 Sep 2007 11:34:13 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070906153442.EFFAF103035@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2107
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Thu Sep  6 19:25:02 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Thu, 06 Sep 2007 13:25:02 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070906172535.3AAACDFFCD@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2108
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: lysiane
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Thu Sep  6 22:13:39 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Thu, 06 Sep 2007 16:13:39 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070906201408.7C7B8F540E@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2109
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: louradou
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Thu Sep  6 22:57:35 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Thu, 06 Sep 2007 16:57:35 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070906205813.368D3615F7@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2110
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Fri Sep  7 23:23:38 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Fri, 07 Sep 2007 17:23:38 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070907212408.DC32A6F95E@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2111
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: plearner
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Sat Sep  8 00:17:30 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Fri, 07 Sep 2007 18:17:30 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070907221804.625D3101A0D@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2112
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: larocheh
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Mon Sep 10 18:21:29 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Mon, 10 Sep 2007 12:21:29 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070910162159.1478DFDC86@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2113
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: tihocan
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Mon Sep 10 21:11:07 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Mon, 10 Sep 2007 15:11:07 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070910191137.228F5104DC7@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2114
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Mon Sep 10 21:42:19 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Mon, 10 Sep 2007 15:42:19 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070910194255.E0DAFFEA42@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2115
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Tue Sep 11 16:45:52 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Tue, 11 Sep 2007 10:45:52 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070911144623.706EEFDB31@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2116
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Tue Sep 11 17:02:49 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Tue, 11 Sep 2007 11:02:49 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070911150328.8BB05100853@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2117
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Tue Sep 11 17:07:11 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Tue, 11 Sep 2007 11:07:11 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070911150746.19F1EFEB73@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2118
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Tue Sep 11 19:38:18 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Tue, 11 Sep 2007 13:38:18 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070911173858.3E642101AEE@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2119
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Tue Sep 11 20:37:17 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Tue, 11 Sep 2007 14:37:17 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070911183752.50942FDE4A@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2120
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Tue Sep 11 20:41:32 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Tue, 11 Sep 2007 14:41:32 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070911184206.75C7CFFE74@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2121
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Tue Sep 11 21:00:02 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Tue, 11 Sep 2007 15:00:02 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070911190036.CB504103C84@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2122
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Tue Sep 11 21:14:38 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Tue, 11 Sep 2007 15:14:38 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070911191514.C6224101EAC@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2123
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Tue Sep 11 21:48:33 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Tue, 11 Sep 2007 15:48:33 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070911194904.0960410632E@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2124
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: tihocan
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Wed Sep 12 21:33:32 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Wed, 12 Sep 2007 15:33:32 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070912193408.184FE106673@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2125
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Wed Sep 12 22:16:49 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Wed, 12 Sep 2007 16:16:49 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070912201730.AE26B102F73@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2126
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Thu Sep 13 15:51:46 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Thu, 13 Sep 2007 09:51:46 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070913135222.73E2CA7BFE@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2127
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Thu Sep 13 21:00:50 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Thu, 13 Sep 2007 15:00:50 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070913190125.66912DFEA2@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2128
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: manzagop
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Thu Sep 13 21:32:16 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Thu, 13 Sep 2007 15:32:16 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070913193247.1C186101DEB@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2129
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: louradou
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Thu Sep 13 22:10:35 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Thu, 13 Sep 2007 16:10:35 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070913201110.808A5F565A@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2130
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: lamblin
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Fri Sep 14 16:17:46 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Fri, 14 Sep 2007 10:17:46 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070914141828.636D41050F9@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2131
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: manzagop,nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Fri Sep 14 16:47:50 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Fri, 14 Sep 2007 10:47:50 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070914144825.BCB2180C32@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2132
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Fri Sep 14 17:06:59 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Fri, 14 Sep 2007 11:06:59 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070914150730.EB8451026A8@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2133
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Fri Sep 14 22:19:48 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Fri, 14 Sep 2007 16:19:48 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070914202029.221CF104075@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2134
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Tue Sep 18 14:19:59 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Tue, 18 Sep 2007 08:19:59 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070918122033.BE8C95E92F@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2135
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: manzagop
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Tue Sep 18 19:50:43 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Tue, 18 Sep 2007 13:50:43 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070918175125.A2BFB10348E@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2136
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Wed Sep 19 21:04:05 2007
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Wed, 19 Sep 2007 15:04:05 -0400
+Subject: [Plearn-builds] buildbot success in PLearn_ApSTAT_Linux_i386
+Message-ID: <20070919190443.7BA2E10507B@mail.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386.
+Full details are available at:
+ http://janus.apstat.com:8010/PLearn_ApSTAT_Linux_i386/builds/2137
+
+Buildbot URL: http://janus.apstat.com:8010/
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: lamblin
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+

@@ -1,0 +1,78 @@
+From buildbot at apstat.com  Fri Sep 23 21:16:27 2011
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Fri, 23 Sep 2011 15:16:27 -0400
+Subject: [Plearn-builds] buildbot failure in PLearn on
+	PLearn_ApSTAT_Linux_i386
+Message-ID: <mailman.46.1331737416.9257.plearn-builds@lists.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386 on PLearn.
+Full details are available at:
+ http://janus.apstat.com:8010/builders/builders/PLearn_ApSTAT_Linux_i386/builds/3877
+
+Buildbot URL: http://janus.apstat.com:8010/builders/
+
+Buildslave for this Build: AP-inari
+
+Build Reason: 
+Build Source Stamp: [branch trunk] 10370
+Blamelist: nouiz
+
+BUILD FAILED: failed test
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Fri Sep 23 21:27:11 2011
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Fri, 23 Sep 2011 15:27:11 -0400
+Subject: [Plearn-builds] buildbot failure in PLearn on
+	PLearn_ApSTAT_Linux_i386
+Message-ID: <mailman.47.1331737416.9257.plearn-builds@lists.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386 on PLearn.
+Full details are available at:
+ http://janus.apstat.com:8010/builders/builders/PLearn_ApSTAT_Linux_i386/builds/3878
+
+Buildbot URL: http://janus.apstat.com:8010/builders/
+
+Buildslave for this Build: AP-inari
+
+Build Reason: 
+Build Source Stamp: [branch trunk] 10371
+Blamelist: nouiz
+
+BUILD FAILED: failed compile
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Fri Sep 23 22:02:15 2011
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Fri, 23 Sep 2011 16:02:15 -0400
+Subject: [Plearn-builds] buildbot failure in PLearn on
+	PLearn_ApSTAT_Linux_i386
+Message-ID: <mailman.48.1331737416.9257.plearn-builds@lists.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386 on PLearn.
+Full details are available at:
+ http://janus.apstat.com:8010/builders/builders/PLearn_ApSTAT_Linux_i386/builds/3879
+
+Buildbot URL: http://janus.apstat.com:8010/builders/
+
+Buildslave for this Build: AP-inari
+
+Build Reason: 
+Build Source Stamp: [branch trunk] 10372
+Blamelist: nouiz
+
+BUILD FAILED: failed test
+
+sincerely,
+ -The Buildbot
+
+
+

@@ -1,0 +1,26 @@
+From buildbot at apstat.com  Sat Jun 25 17:58:26 2011
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Sat, 25 Jun 2011 11:58:26 -0400
+Subject: [Plearn-builds] buildbot failure in PLearn on
+	PLearn_ApSTAT_Linux_i386
+Message-ID: <mailman.44.1331737416.9257.plearn-builds@lists.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386 on PLearn.
+Full details are available at:
+ http://janus.apstat.com:8010/builders/PLearn_ApSTAT_Linux_i386/builds/3875
+
+Buildbot URL: http://janus.apstat.com:8010/builders/
+
+Buildslave for this Build: AP-inari
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: dorionc
+
+BUILD FAILED: failed test
+
+sincerely,
+ -The Buildbot
+
+
+

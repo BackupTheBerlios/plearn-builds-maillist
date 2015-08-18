@@ -1,0 +1,156 @@
+From buildbot at apstat.com  Thu Aug  5 16:55:02 2010
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Thu, 05 Aug 2010 10:55:02 -0400
+Subject: [Plearn-builds] buildbot success in PLearn on
+	PLearn_ApSTAT_Linux_i386
+Message-ID: <mailman.27.1331737416.9257.plearn-builds@lists.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386 on PLearn.
+Full details are available at:
+ http://janus.apstat.com:8010/builders/PLearn_ApSTAT_Linux_i386/builds/3858
+
+Buildbot URL: http://janus.apstat.com:8010/builders/
+
+Buildslave for this Build: AP-inari
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Fri Aug  6 21:33:59 2010
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Fri, 06 Aug 2010 15:33:59 -0400
+Subject: [Plearn-builds] buildbot success in PLearn on
+	PLearn_ApSTAT_Linux_i386
+Message-ID: <mailman.28.1331737416.9257.plearn-builds@lists.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386 on PLearn.
+Full details are available at:
+ http://janus.apstat.com:8010/builders/PLearn_ApSTAT_Linux_i386/builds/3859
+
+Buildbot URL: http://janus.apstat.com:8010/builders/
+
+Buildslave for this Build: AP-inari
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: nouiz
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Mon Aug 16 22:12:04 2010
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Mon, 16 Aug 2010 16:12:04 -0400
+Subject: [Plearn-builds] buildbot success in PLearn on
+	PLearn_ApSTAT_Linux_i386
+Message-ID: <mailman.29.1331737416.9257.plearn-builds@lists.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386 on PLearn.
+Full details are available at:
+ http://janus.apstat.com:8010/builders/PLearn_ApSTAT_Linux_i386/builds/3860
+
+Buildbot URL: http://janus.apstat.com:8010/builders/
+
+Buildslave for this Build: AP-inari
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: ducharme
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Sat Aug 21 00:51:44 2010
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Fri, 20 Aug 2010 18:51:44 -0400
+Subject: [Plearn-builds] buildbot success in PLearn on
+	PLearn_ApSTAT_Linux_i386
+Message-ID: <mailman.30.1331737416.9257.plearn-builds@lists.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386 on PLearn.
+Full details are available at:
+ http://janus.apstat.com:8010/builders/PLearn_ApSTAT_Linux_i386/builds/3861
+
+Buildbot URL: http://janus.apstat.com:8010/builders/
+
+Buildslave for this Build: AP-inari
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: lamblin
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Sat Aug 21 01:02:37 2010
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Fri, 20 Aug 2010 19:02:37 -0400
+Subject: [Plearn-builds] buildbot success in PLearn on
+	PLearn_ApSTAT_Linux_i386
+Message-ID: <mailman.31.1331737416.9257.plearn-builds@lists.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386 on PLearn.
+Full details are available at:
+ http://janus.apstat.com:8010/builders/PLearn_ApSTAT_Linux_i386/builds/3862
+
+Buildbot URL: http://janus.apstat.com:8010/builders/
+
+Buildslave for this Build: AP-inari
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: lamblin
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
+From buildbot at apstat.com  Sat Aug 21 01:08:56 2010
+From: buildbot at apstat.com (buildbot at apstat.com)
+Date: Fri, 20 Aug 2010 19:08:56 -0400
+Subject: [Plearn-builds] buildbot success in PLearn on
+	PLearn_ApSTAT_Linux_i386
+Message-ID: <mailman.32.1331737416.9257.plearn-builds@lists.berlios.de>
+
+The Buildbot has finished a build of PLearn_ApSTAT_Linux_i386 on PLearn.
+Full details are available at:
+ http://janus.apstat.com:8010/builders/PLearn_ApSTAT_Linux_i386/builds/3863
+
+Buildbot URL: http://janus.apstat.com:8010/builders/
+
+Buildslave for this Build: AP-inari
+
+Build Reason: 
+Build Source Stamp: [branch trunk] HEAD
+Blamelist: lamblin
+
+Build succeeded!
+
+sincerely,
+ -The Buildbot
+
+
+
